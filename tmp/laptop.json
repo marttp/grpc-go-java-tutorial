@@ -1,0 +1,62 @@
+{
+  "id": "e2fc5d14-7615-49fa-b688-9cbbe45cc107",
+  "brand": "Apple",
+  "name": "Macbook Pro",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i7-9750H",
+    "numberCores": 5,
+    "numberThreads": 8,
+    "minGhz": 3.4505423486777205,
+    "maxGhz": 3.6273240409849965
+  },
+  "ram": {
+    "value": "42",
+    "unit": 5
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "RTX 2060",
+      "minGhz": 1.3548234765070708,
+      "maxGhz": 1.3573203830410112,
+      "memory": {
+        "value": "5",
+        "unit": 5
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": 2,
+      "memory": {
+        "value": "541",
+        "unit": 5
+      }
+    },
+    {
+      "driver": 1,
+      "memory": {
+        "value": "4",
+        "unit": 6
+      }
+    }
+  ],
+  "screen": {
+    "sizeInch": 15.531046,
+    "resolution": {
+      "width": 3301,
+      "height": 1857
+    },
+    "panel": 1,
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": 1,
+    "backlit": false
+  },
+  "weightKg": 2.8174962935153594,
+  "priceUsd": 2385.9589331710963,
+  "releaseYear": 2017,
+  "updatedAt": "2020-06-02T06:25:18.584377800Z"
+}
